@@ -13,7 +13,7 @@ Estudos em ReactJS
 
 <ul>
   <li> Hooks</li>
-  <li> Context API/li>
+  <li> Context API</li>
   <li> Controle de estado</li>
   <li> TSX </li>
   <li> Testes </li>
