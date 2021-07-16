@@ -14,4 +14,4 @@
 
 
 
-<p>Link para o projeto 01<a href="https://github.com/karenlorhana/projeto-01"> projeto-01</a></p>
+<p>Link para o <a href="https://github.com/karenlorhana/projeto-01"> projeto-01</a></p>
