@@ -1,0 +1,45 @@
+.nav-bar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #1c1c1c;
+  width: 100%;
+  height: 68px;
+}
+
+.nav-bar a {
+  font-family: "Rajdhani", sans-serif;
+  display: block;
+  color: #daa520;
+  padding: 23px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav-bar a.initial-page {
+  margin-left: 45px;
+}
+
+.nav-bar a:hover {
+  background-color: #000000;
+  color: #daa520;
+}
+
+.nav-bar .icon {
+  display: none;
+}
+
+.right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+/* </nav-bar> */
+/*# sourceMappingURL=navbar.css.map */

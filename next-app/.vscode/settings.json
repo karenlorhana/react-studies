@@ -1,0 +1,10 @@
+{
+
+    "cSpell.words": [
+        "Vercel"
+    ],
+    "editor.formateOnSave": false,
+    "editor.codeActionsOnSabe": {
+        "source.fixAll.eslint": true
+    }
+}

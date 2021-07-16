@@ -1,0 +1,65 @@
+.profile-picture {
+  width: 338px;
+  height: 298px;
+  margin-bottom: 15px;
+  margin: 20 auto;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+body .container-signup {
+  -webkit-box-shadow: 5px 5px 15px #afaca7;
+          box-shadow: 5px 5px 15px #afaca7;
+  background: #ffdead;
+  max-width: 370px;
+  max-height: 390px;
+  padding: 5rem;
+  border-radius: 8px;
+  width: 100%;
+  position: relative;
+}
+
+button[type="submit"] {
+  font-family: "Rajdhani", sans-serif;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding: 0.7rem;
+  background: #f4a460;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  width: 100%;
+}
+
+form ::-webkit-input-placeholder {
+  font-family: "Rajdhani", sans-serif;
+}
+
+form :-ms-input-placeholder {
+  font-family: "Rajdhani", sans-serif;
+}
+
+form ::-ms-input-placeholder {
+  font-family: "Rajdhani", sans-serif;
+}
+
+form ::placeholder {
+  font-family: "Rajdhani", sans-serif;
+}
+
+input[type="text"] {
+  font-family: "Rajdhani", sans-serif;
+  width: 100%;
+  height: 30px;
+}
+
+input[type="password"] {
+  font-family: "Rajdhani", sans-serif;
+  width: 100%;
+  height: 30px;
+}
+/*# sourceMappingURL=signup.css.map */
