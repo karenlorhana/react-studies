@@ -1,7 +1,7 @@
 # Projeto 01 refatorado em ReactJS
 
-<p> Apenas um conteúdo introdutório de ReactJS que</p>
-<h4> Consiste em 6 páginas simples:</h4>
+<p> Apenas um conteúdo introdutório de ReactJS que
+Consiste em 6 páginas simples:</p>
 
 <ul>
 <li> Página inicial (landing page) - Home.jsx </li>
