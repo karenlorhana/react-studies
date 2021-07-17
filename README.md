@@ -8,7 +8,6 @@ Estudos em ReactJS
 <li> Redux Toolkit</li>
 </ul>
 
-
 <h3> Conteúdos desenvolvidos</h3>
 
 <ul>
